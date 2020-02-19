@@ -37,7 +37,7 @@ Based on the above data, I would filter below companies to get in touch with.
 
 ---
 
-*Reference:* IRDAI (https://www.irdai.gov.in/ADMINCMS/cms/NormalData_Layout.aspx?page=PageNo765&mid=31.2)
+*Reference:* [IRDAI](https://www.irdai.gov.in/ADMINCMS/cms/NormalData_Layout.aspx?page=PageNo765&mid=31.2)
 
 It's mandatory for the health insurance companies to expose disclosures to public (`NL-25 Claims Data` section will have all necessary details).
 
